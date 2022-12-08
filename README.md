@@ -5,6 +5,7 @@ This repository holds my own notes.
 ## Outline
 
 - RocketMQ
+  - Roles
 
 ## Personal information
 
